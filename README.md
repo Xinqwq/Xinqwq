@@ -10,7 +10,7 @@
 ![GitHub](https://github.com/Xinqwq)
 
 ## Contact
-📩 Reach me [here](https://xeinacc.club)
+📩 Reach me [here](https://xeinacc.cn)
 
 ## Stats 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shengyuan-lu&style=for-the-badge)
