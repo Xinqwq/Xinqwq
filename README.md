@@ -1,0 +1,19 @@
+### 👋 G'day Mate, I’m Kelsi (@Xinqwq)  
+- 👀 Interested in algorithms, data structures, and game strategy (especially fs games & board game Avalon).  
+- 🌱 Currently focusing on LeetCode to strengthen my problem-solving skills.  
+- 🎓 Graduate student preparing for job applications.  
+- 💡 Exploring forward-thinking and emotional resilience.  
+- 📫 Reach me via GitHub or other platforms.  
+- ⚡ Fun fact: I enjoy deep discussions on psychology and decision-making!
+  
+<!---
+Xinqwq/Xinqwq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+- 👋 Hi, I’m @Xinqwq
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--->
