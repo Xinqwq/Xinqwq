@@ -1,3 +1,5 @@
+![Mario](assets/mario.gif)
+
 ### 👋 G'day Mate, I’m Kelsi (@Xinqwq)  
 - 👀 Interested in algorithms, data structures, and game strategy (especially fs games & board game Avalon).  
 - 🌱 Currently focusing on LeetCode to strengthen my problem-solving skills.  
