@@ -33,6 +33,9 @@
 🐍Animation created with [Platane/snk](https://github.com/Platane/snk)
 <br>
 <br>
+
+---
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Xinqwq&style=for-the-badge)
 
 <p align="center">
