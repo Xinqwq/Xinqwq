@@ -23,9 +23,20 @@
 📩 Reach me [here](https://xeinacc.cn)
 
 ## Stats 
-![Profile View Counter](https://komarev.com/ghpvc/?username=shengyuan-lu&style=for-the-badge)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Xinqwq&style=for-the-badge)
 
-## Star History
+<p align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Kelsi" src="https://count.getloli.com/@Xinqwq.github?name=Xinqwq.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  </a>
+</p>
+<p align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Kelsi" src="https://count.getloli.com/@Xinqwq.github?name=Xinqwq.github&theme=booru-mjg&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  </a>
+</p>
+
+<!-- ## Star History
 
 <a href="https://www.star-history.com/#azl397985856/leetcode&Date">
  <picture>
@@ -34,3 +45,4 @@
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=azl397985856/leetcode&type=Date" />
  </picture>
 </a>
+-->
