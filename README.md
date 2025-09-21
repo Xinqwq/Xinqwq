@@ -1,6 +1,7 @@
 ![Mario](assets/mario.gif)
 
 ### 👋 G'day Mate, I’m Kelsi (@Xinqwq)  
+![Imgur](https://imgur.com/t3YXlZE)
 - 👀 Interested in algorithms, data structures, and game strategy (especially fs games & board game Avalon).  
 - 🌱 Currently focusing on LeetCode to strengthen my problem-solving skills.  
 - 🎓 Graduate student preparing for job applications.  
@@ -8,8 +9,10 @@
 - 📫 Reach me via GitHub or other platforms.  
 - ⚡ Fun fact: I enjoy deep discussions on psychology and decision-making!
 
-## About
-![GitHub](https://github.com/Xinqwq)
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,css,javascript,react,py,docker,linux,mysql,mongodb,nginx,redis,bitbucket,github,figma,unreal,blender&theme=dark)](https://github.com/Xinqwq)
+<!--[![My Skills](https://skillicons.dev/icons?i=java,nodejs,css,javascript,react,py,docker,linux,mysql,mongodb,nginx,redis,bitbucket,github,figma,unreal,blender&theme=light)](https://github.com/Xinqwq)-->
+
 
 ## Contact
 📩 Reach me [here](https://xeinacc.cn)
@@ -26,14 +29,3 @@
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=azl397985856/leetcode&type=Date" />
  </picture>
 </a>
-<!---
-Xinqwq/Xinqwq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @Xinqwq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
