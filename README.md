@@ -23,13 +23,16 @@
 📩 Reach me [here](https://xeinacc.cn)
 
 ## Stats 
-
+<!--Snake Contributions-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xinqwq/Xinqwq/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xinqwq/Xinqwq/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/Xinqwq/Xinqwq/output/github-contribution-grid-snake.svg">
 </picture>
-
+<br>
+🐍Animation created with [Platane/snk](https://github.com/Platane/snk)
+<br>
+<br>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Xinqwq&style=for-the-badge)
 
 <p align="center">
@@ -42,6 +45,7 @@
     <img alt="Kelsi" src="https://count.getloli.com/@Xinqwq.github?name=Xinqwq.github&theme=booru-mjg&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
   </a>
 </p>
+
 <!-- ## Star History
 
 <a href="https://www.star-history.com/#azl397985856/leetcode&Date">
