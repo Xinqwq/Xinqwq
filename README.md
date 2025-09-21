@@ -1,7 +1,12 @@
 ![Mario](assets/mario.gif)
 
 ### 👋 G'day Mate, I’m Kelsi (@Xinqwq)  
-![Imgur](https://imgur.com/t3YXlZE)
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://imgur.com/t3YXlZE" />
+   <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/t3YXlZE" />
+   <img alt="16meme" src="https://imgur.com/t3YXlZE" />
+ </picture>
+
 - 👀 Interested in algorithms, data structures, and game strategy (especially fs games & board game Avalon).  
 - 🌱 Currently focusing on LeetCode to strengthen my problem-solving skills.  
 - 🎓 Graduate student preparing for job applications.  
